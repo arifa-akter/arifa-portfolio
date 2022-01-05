@@ -2,3 +2,16 @@
     margin:0;
     padding: 0;
 }
+a{
+    text-decoration: none;
+}
+ul,ol{
+    list-style-type: none;
+}
+img{
+   vertical-align: middle;
+}
+.container{
+    width: 1170px;
+    margin:auto 0;
+}
