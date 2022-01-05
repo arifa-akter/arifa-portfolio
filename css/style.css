@@ -83,7 +83,7 @@ img{
     font-weight: 500;
     color:rgb(74, 119, 115);
     line-height: 26px;
-    padding-bottom: 25px;
+    padding-bottom: 30px;
 }
 .link-button{
     font-family: 'Poppins', sans-serif;
@@ -93,4 +93,9 @@ img{
     padding: 15px 30px;
     background: linear-gradient( blue , rgb(0, 248, 83));
     color:#ffffff;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
 }
