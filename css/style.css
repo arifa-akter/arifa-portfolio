@@ -13,5 +13,10 @@ img{
 }
 .container{
     width: 1170px;
-    margin:auto 0;
+    margin: auto 0;
+}
+
+
+.main-banner{
+    display:flex;
 }
