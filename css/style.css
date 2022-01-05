@@ -1,6 +1,7 @@
 *{
     margin:0;
     padding: 0;
+    outline:0;
 }
 a{
     text-decoration: none;
@@ -13,10 +14,13 @@ img{
 }
 .container{
     width: 1170px;
-    margin: auto 0;
+    margin: 0 auto;
 }
 
 
 .main-banner{
     display:flex;
+}
+.banner-item img{
+    width:100%;
 }
