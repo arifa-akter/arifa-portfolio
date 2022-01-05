@@ -169,3 +169,13 @@ img {
 .banner-item-3:nth-child(2) {
     margin-right: 0;
 }
+.copy{
+    text-align: center;
+}
+.copy span{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(74, 119, 115);
+    font-weight: 500;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
