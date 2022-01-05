@@ -115,6 +115,8 @@ img {
 
 /* ============ Dream part start ======== */
 #dream-big {
+    background: url(../images/dream-bg.png) no-repeat;
+    background-position: right;
     margin-top: 100px;
 }
 
@@ -133,6 +135,8 @@ img {
 
 /* ============ experiences =========== */
 #expe {
+    background: url(../images/exp-bg.png) no-repeat;
+    background-position: left;
     margin-top: 100px;
     margin-bottom: 200px;
 }
